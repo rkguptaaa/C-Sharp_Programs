@@ -1,0 +1,5 @@
+D:\HitAndTry\C#_Programs\Factorial_ByRecursion\bin\Debug\Factorial_ByRecursion.exe.config
+D:\HitAndTry\C#_Programs\Factorial_ByRecursion\bin\Debug\Factorial_ByRecursion.exe
+D:\HitAndTry\C#_Programs\Factorial_ByRecursion\bin\Debug\Factorial_ByRecursion.pdb
+D:\HitAndTry\C#_Programs\Factorial_ByRecursion\obj\Debug\Factorial_ByRecursion.exe
+D:\HitAndTry\C#_Programs\Factorial_ByRecursion\obj\Debug\Factorial_ByRecursion.pdb

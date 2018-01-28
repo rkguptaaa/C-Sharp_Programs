@@ -1,0 +1,6 @@
+D:\HitAndTry\C#_Programs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\HitAndTry\C#_Programs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\HitAndTry\C#_Programs\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\HitAndTry\C#_Programs\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\HitAndTry\C#_Programs\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\HitAndTry\C#_Programs\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

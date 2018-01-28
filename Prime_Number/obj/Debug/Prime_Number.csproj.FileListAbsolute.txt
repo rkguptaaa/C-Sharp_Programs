@@ -1,0 +1,6 @@
+D:\HitAndTry\C#_Programs\Prime_Number\bin\Debug\Prime_Number.exe.config
+D:\HitAndTry\C#_Programs\Prime_Number\bin\Debug\Prime_Number.exe
+D:\HitAndTry\C#_Programs\Prime_Number\bin\Debug\Prime_Number.pdb
+D:\HitAndTry\C#_Programs\Prime_Number\obj\Debug\Prime_Number.csprojResolveAssemblyReference.cache
+D:\HitAndTry\C#_Programs\Prime_Number\obj\Debug\Prime_Number.exe
+D:\HitAndTry\C#_Programs\Prime_Number\obj\Debug\Prime_Number.pdb
